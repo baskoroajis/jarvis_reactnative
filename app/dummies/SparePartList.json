@@ -1,0 +1,504 @@
+[
+    {
+        "id": "c958e6ba-5e67-4465-b2cd-8d6c73d1eba0",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "f150bd76-9f2f-4253-8825-4d94c094251b",
+        "name": "JarJar",
+        "description": "Lorem",
+        "price": 10000,
+        "created_at": "2019-08-09T07:48:44.000Z",
+        "updated_at": "2019-08-09T07:48:44.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "f150bd76-9f2f-4253-8825-4d94c094251b",
+            "name": "e-Bike",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "e-bike",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": []
+    },
+    {
+        "id": "4ac07f0f-cf59-4b01-9e86-91e560fcbd90",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "f150bd76-9f2f-4253-8825-4d94c094251b",
+        "name": "Barang",
+        "description": "",
+        "price": 10000,
+        "created_at": "2019-08-09T07:47:53.000Z",
+        "updated_at": "2019-08-09T07:47:53.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "f150bd76-9f2f-4253-8825-4d94c094251b",
+            "name": "e-Bike",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "e-bike",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": []
+    },
+    {
+        "id": "1be9bac5-3769-4001-a6db-7beda29a6715",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Pedal",
+        "description": "dasdaksdkasljdasjdjlaks\ndas;ldas;lkdasjd\nfasfasf\nasfasfa\nfa",
+        "price": 50000,
+        "created_at": "2019-07-26T08:31:23.000Z",
+        "updated_at": "2019-08-13T04:59:17.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": [
+            {
+                "id": "90533d6f-bafc-481b-9815-a98a64ad52dc",
+                "product_id": "1be9bac5-3769-4001-a6db-7beda29a6715",
+                "fieldname": "images",
+                "originalname": "Pedal.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1564545631655.jpg",
+                "path": "/images/products/1564545631655.jpg",
+                "size": "203429",
+                "created_at": "2019-07-31T04:00:32.000Z",
+                "updated_at": "2019-07-31T04:00:32.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1564545631655.jpg"
+            },
+            {
+                "id": "caabc25e-6360-4eb3-9cf9-55363435c418",
+                "product_id": "1be9bac5-3769-4001-a6db-7beda29a6715",
+                "fieldname": "images",
+                "originalname": "merah.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080158383.jpg",
+                "path": "/images/products/1565080158383.jpg",
+                "size": "76198",
+                "created_at": "2019-08-06T08:29:18.000Z",
+                "updated_at": "2019-08-06T08:29:18.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080158383.jpg"
+            }
+        ]
+    },
+    {
+        "id": "5c999b15-01b1-405f-9f19-fbf720158e86",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Charger 36V 12AH",
+        "description": "",
+        "price": 300000,
+        "created_at": "2019-07-26T08:30:50.000Z",
+        "updated_at": "2019-08-13T04:59:32.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": [
+            {
+                "id": "090819ed-8dff-4877-a629-d1819d3695de",
+                "product_id": "5c999b15-01b1-405f-9f19-fbf720158e86",
+                "fieldname": "images",
+                "originalname": "Charger 1.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080542204.jpg",
+                "path": "/images/products/1565080542204.jpg",
+                "size": "294476",
+                "created_at": "2019-08-06T08:35:42.000Z",
+                "updated_at": "2019-08-06T08:35:42.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080542204.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3d7a6fcf-4033-44df-aca3-848a4e1bf416",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Front Wheel",
+        "description": "",
+        "price": 250000,
+        "created_at": "2019-07-26T08:28:25.000Z",
+        "updated_at": "2019-08-13T04:59:40.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [
+            {
+                "id": "669e058d-0973-415b-800b-12981ca5b8e4",
+                "product_id": "3d7a6fcf-4033-44df-aca3-848a4e1bf416",
+                "key": "Bentuk ",
+                "value": "Hitam ",
+                "created_at": "2019-08-13T04:59:40.000Z",
+                "updated_at": "2019-08-13T04:59:40.000Z",
+                "deleted_at": null
+            },
+            {
+                "id": "74af835a-284b-435e-9678-90a6b5ffc9a9",
+                "product_id": "3d7a6fcf-4033-44df-aca3-848a4e1bf416",
+                "key": "Warna ",
+                "value": "Hitam",
+                "created_at": "2019-08-13T04:59:40.000Z",
+                "updated_at": "2019-08-13T04:59:40.000Z",
+                "deleted_at": null
+            }
+        ],
+        "variants": [],
+        "images": [
+            {
+                "id": "0776e487-92c3-4d1f-b506-82331bec5d85",
+                "product_id": "3d7a6fcf-4033-44df-aca3-848a4e1bf416",
+                "fieldname": "images",
+                "originalname": "Front Wheel 2.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080678167.jpg",
+                "path": "/images/products/1565080678167.jpg",
+                "size": "349760",
+                "created_at": "2019-08-06T08:37:58.000Z",
+                "updated_at": "2019-08-06T08:37:58.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080678167.jpg"
+            },
+            {
+                "id": "bcb6d1a7-e9c8-44ab-b429-79586b3f89fc",
+                "product_id": "3d7a6fcf-4033-44df-aca3-848a4e1bf416",
+                "fieldname": "images",
+                "originalname": "Front Wheel 1.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080678161.jpg",
+                "path": "/images/products/1565080678161.jpg",
+                "size": "302933",
+                "created_at": "2019-08-06T08:37:58.000Z",
+                "updated_at": "2019-08-06T08:37:58.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080678161.jpg"
+            }
+        ]
+    },
+    {
+        "id": "a76ae0ae-7827-4f5c-a3a9-968bfe894532",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Motor Dinamo",
+        "description": "",
+        "price": 1800000,
+        "created_at": "2019-07-26T08:27:24.000Z",
+        "updated_at": "2019-08-13T05:00:02.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": [
+            {
+                "id": "5955952e-127b-476b-8116-fc446e339954",
+                "product_id": "a76ae0ae-7827-4f5c-a3a9-968bfe894532",
+                "fieldname": "images",
+                "originalname": "Motor Dinamo.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080737429.jpg",
+                "path": "/images/products/1565080737429.jpg",
+                "size": "389525",
+                "created_at": "2019-08-06T08:38:57.000Z",
+                "updated_at": "2019-08-06T08:38:57.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080737429.jpg"
+            }
+        ]
+    },
+    {
+        "id": "cfee0a13-8007-4169-91ce-9ca8013fbe9b",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Controller",
+        "description": "",
+        "price": 250000,
+        "created_at": "2019-07-26T08:26:14.000Z",
+        "updated_at": "2019-08-13T05:00:06.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": [
+            {
+                "id": "3ee15dc1-1b69-4c28-ab3e-a7614b4ed7aa",
+                "product_id": "cfee0a13-8007-4169-91ce-9ca8013fbe9b",
+                "fieldname": "images",
+                "originalname": "Controller.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080769601.jpg",
+                "path": "/images/products/1565080769601.jpg",
+                "size": "271866",
+                "created_at": "2019-08-06T08:39:30.000Z",
+                "updated_at": "2019-08-06T08:39:30.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080769601.jpg"
+            }
+        ]
+    },
+    {
+        "id": "d2e4fd2b-24bb-4b66-b8f3-acf2b66f48a1",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Batere 12V 12AH",
+        "description": "",
+        "price": 500000,
+        "created_at": "2019-07-26T08:25:23.000Z",
+        "updated_at": "2019-08-13T04:59:57.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": [
+            {
+                "id": "1f5ef69a-8856-46d8-be61-559f11428aa3",
+                "product_id": "d2e4fd2b-24bb-4b66-b8f3-acf2b66f48a1",
+                "fieldname": "images",
+                "originalname": "Baterai 12V 12AH.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080828653.jpg",
+                "path": "/images/products/1565080828653.jpg",
+                "size": "257429",
+                "created_at": "2019-08-06T08:40:29.000Z",
+                "updated_at": "2019-08-06T08:40:29.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080828653.jpg"
+            }
+        ]
+    },
+    {
+        "id": "673d00b2-d00c-4622-a097-0db40ad17749",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Ban Luar",
+        "description": "",
+        "price": 125000,
+        "created_at": "2019-07-26T08:23:08.000Z",
+        "updated_at": "2019-08-13T04:59:51.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": [
+            {
+                "id": "8baebea0-6a5c-4560-98da-bca7dce17c4c",
+                "product_id": "673d00b2-d00c-4622-a097-0db40ad17749",
+                "fieldname": "images",
+                "originalname": "Ban Luar.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080893136.jpg",
+                "path": "/images/products/1565080893136.jpg",
+                "size": "274022",
+                "created_at": "2019-08-06T08:41:33.000Z",
+                "updated_at": "2019-08-06T08:41:33.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080893136.jpg"
+            },
+            {
+                "id": "bccd1fc3-a59c-4a6c-bcaf-60e2db20c89f",
+                "product_id": "673d00b2-d00c-4622-a097-0db40ad17749",
+                "fieldname": "images",
+                "originalname": "Ban Luar 1.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080893129.jpg",
+                "path": "/images/products/1565080893129.jpg",
+                "size": "391715",
+                "created_at": "2019-08-06T08:41:33.000Z",
+                "updated_at": "2019-08-06T08:41:33.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080893129.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3542025a-93c2-4635-8628-7bef8cc047da",
+        "brand_id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+        "type_id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+        "name": "Ban Dalam",
+        "description": "",
+        "price": 75000,
+        "created_at": "2019-07-26T08:11:45.000Z",
+        "updated_at": "2019-08-13T04:59:46.000Z",
+        "deleted_at": null,
+        "brand": {
+            "id": "959dd0e9-a4fd-4754-9653-53f72aed282c",
+            "name": "Jarvis",
+            "created_at": "2019-07-22T04:59:10.000Z",
+            "updated_at": "2019-07-31T04:38:54.000Z",
+            "deleted_at": null
+        },
+        "type": {
+            "id": "3ed85da2-25b5-43b5-acd4-6995db071995",
+            "name": "Spare Parts",
+            "created_at": "2019-08-08T03:36:26.000Z",
+            "updated_at": "2019-08-08T03:36:26.000Z",
+            "deleted_at": null,
+            "icon": null,
+            "slug": "spare-parts",
+            "icon_url": null
+        },
+        "specifications": [],
+        "variants": [],
+        "images": [
+            {
+                "id": "1c47a2e5-21e0-4f38-8418-97daa648443a",
+                "product_id": "3542025a-93c2-4635-8628-7bef8cc047da",
+                "fieldname": "images",
+                "originalname": "Ban Dalam.jpg",
+                "encoding": "7bit",
+                "mimetype": "image/jpeg",
+                "destination": "./public/images/products",
+                "filename": "1565080951382.jpg",
+                "path": "/images/products/1565080951382.jpg",
+                "size": "194384",
+                "created_at": "2019-08-06T08:42:31.000Z",
+                "updated_at": "2019-08-06T08:42:31.000Z",
+                "url": "http://jarvis.dev.mobayar.com/images/products/1565080951382.jpg"
+            }
+        ]
+    }
+]
